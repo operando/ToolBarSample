@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="PopupMenu" parent="AppTheme">
+        <item name="android:background">@color/base_actionbar</item>
+    </style>
+
+</resources>
